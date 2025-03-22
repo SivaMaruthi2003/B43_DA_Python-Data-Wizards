@@ -1,4 +1,6 @@
-💧 Water Potability Analysis 💧
+![Water Analysis](image_link_here)
+
+# 💧 **Water Potability Analysis** 💧
 
 ## **Project Overview**
 
@@ -126,4 +128,5 @@ For any feedback, please reach out via email:
 ## **👨‍🎓 Author**
 
 Developed by **Siva Maruthi.**
+
 
