@@ -1,4 +1,4 @@
-![Water Analysis](image_link_here)
+![Water Analysis]("C:\Users\sivam\OneDrive\Pictures\Saved Pictures\Water-analysis-image.jpg")
 
 # 💧 **Water Potability Analysis** 💧
 
