@@ -1,4 +1,4 @@
-💧 ****Water Potability Analysis**** 💧
+###💧 **Water Potability Analysis** 💧
 
 ## **Project Overview**
 
