@@ -39,9 +39,6 @@ The dataset consists of:
 - 🎮 **Model Training**:
   - Train machine learning models like Logistic Regression, Decision Trees, and Random Forest.
   - Evaluate model performance using cross-validation.
-- 📝 **Predictions**:
-  - Predict water potability for test data.
-  - Save predictions to `predictions.csv`.
 
 ---
 
