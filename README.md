@@ -93,10 +93,6 @@ Run the script:
 python script.py
 ```
 
-The output predictions will be saved in `predictions.csv`.
-
----
-
 ## **Output File**
 
 📝 **predictions.csv**: Contains the predicted potability values for the test dataset.
