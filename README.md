@@ -1,6 +1,6 @@
 
 
-# 💧 **Water Potability Analysis** 💧(![Water-analysis-image](https://github.com/user-attachments/assets/f556a3f7-3d7c-4a28-a51e-9d84bfbfded3)
+# 💧 **Water Potability Analysis** 💧![Water-analysis-image](https://github.com/user-attachments/assets/f556a3f7-3d7c-4a28-a51e-9d84bfbfded3)
 ))
 
 
